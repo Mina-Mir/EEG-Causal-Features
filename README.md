@@ -1,6 +1,8 @@
 ## Neural Oscillation Discovery for Working Memory Performance
 
-[Fig.1.pdf](https://github.com/user-attachments/files/16090955/Fig.1.pdf)
+
+![Fig 1](https://github.com/Mina-Mir/EEG-Causal-Features/assets/74686995/a69fd246-6735-410d-b983-13354ee024dc)
+
 
 This repository contains MATLAB functions designed for discovering neural oscillations that show causal relationships with working memory performance using EEG data.
 
