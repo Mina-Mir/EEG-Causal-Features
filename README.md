@@ -13,7 +13,9 @@ In addition to my own implementations, I have integrated code from the following
 ### Usage
 
 extract_performance.m function calculates the performance during N-back task using EEG data
+
 power_calculation.m function calculates the power of neural oscillations from pre- and post-stimulus time windows
+
 causal_features.m calculates the causal relations between the performance and power from neural oscillations
 
 To use these functions, clone the repository and follow the instructions in each module's README file for setup and execution.
