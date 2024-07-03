@@ -1,6 +1,6 @@
 function power_calculation(subject_ids, path_input, path_output,working_dir)
 
-% This function calculates the pre- and post-stimuls powers from 4 frequncy
+% This function calculates the pre- and post-stimuls powers from 4 frequency
 % bands.
 
 
