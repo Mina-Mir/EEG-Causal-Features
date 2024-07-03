@@ -1,6 +1,6 @@
 function extract_performance (subject_ids, path_input, path_output, working_dir)
 
-% this function calculates the N-back perfromance using the marks (keypad response and event types) on EEG
+% this function calculates the N-back performance using the marks (keypad response and event types) on EEG
 % data after ICA decomposition
 
 
